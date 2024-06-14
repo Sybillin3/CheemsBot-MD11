@@ -19,7 +19,7 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
+global.botname = 'ron.k MD V11' //ur bot name
 global.ownernumber = '22564329870' //ur owner number
 global.ownername = 'ron.k' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
@@ -28,8 +28,8 @@ global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "ron.k"
+global.creator = "22564329870@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["22564329870"] // Premium User
 global.hituet = 0
